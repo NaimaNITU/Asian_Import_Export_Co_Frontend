@@ -1,4 +1,3 @@
-// ProductCatalog.jsx (Main Component)
 import React, { useState, useEffect } from "react";
 import ProductCategory from "./ProductCategory";
 import ProductSubcategory from "./ProductSubcategory";
