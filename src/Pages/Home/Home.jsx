@@ -4,10 +4,10 @@ import ProductCatalog from "../../components/DynamicProductCatalog/ProductCatalo
 
 const Home = () => {
   return (
-    <div>
+    <>
       <Banner />
       <ProductCatalog />
-    </div>
+    </>
   );
 };
 

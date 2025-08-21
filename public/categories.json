@@ -1,0 +1,1785 @@
+[
+  {
+    "id": 1,
+    "name": "Vehicle Parts & Accessories",
+    "icon": "🚗",
+    "subcategories": [
+      {
+        "id": 101,
+        "name": "Truck Tires",
+        "products": [
+          {
+            "id": 1001,
+            "name": "Double Coin FT105 11R22.5 Drive Tire",
+            "price": "$280.00",
+            "offerPrice": "$134.00",
+            "brand": "Double Coin",
+            "size": "11R22.5",
+            "pattern": "Drive",
+            "loadRange": "G",
+            "description": "Durable drive tire with G load range.",
+            "image": "/assets/truck/Double Coin/Drive/11R22.5.png"
+          },
+          {
+            "id": 1002,
+            "name": "Double Coin FT105 295/75R22.5 Drive Tire",
+            "price": "$290.00",
+            "offerPrice": "$144.00",
+            "brand": "Double Coin",
+            "size": "295/75R22.5",
+            "pattern": "Drive",
+            "loadRange": "G",
+            "description": "Versatile drive tire for mixed terrain.",
+            "image": "/assets/truck/Double Coin/Drive/29575R22.5.png"
+          },
+          {
+            "id": 1003,
+            "name": "Double Coin RLB4 315/80R22.5 Drive Tire",
+            "price": "$350.00",
+            "offerPrice": "$138.00",
+            "brand": "Double Coin",
+            "size": "315/80R22.5",
+            "pattern": "Drive",
+            "loadRange": "H",
+            "description": "High-load drive tire for long-haul efficiency.",
+            "image": "/assets/truck/Double Coin/Drive/31580R22.5.png"
+          },
+          {
+            "id": 1004,
+            "name": "Double Coin RR202 385/65R22.5 Drive Tire",
+            "price": "$420.00",
+            "offerPrice": "$215.00",
+            "brand": "Double Coin",
+            "size": "385/65R22.5",
+            "pattern": "Drive",
+            "loadRange": "J",
+            "description": "Wide-base drive tire for maximum load capacity.",
+            "image": "/assets/truck/Double Coin/Drive/38565R22.5.png"
+          },
+          {
+            "id": 1005,
+            "name": "Double Coin FT105 255/70R22.5 Drive Tire",
+            "price": "$260.00",
+            "offerPrice": "$141.00",
+            "brand": "Double Coin",
+            "size": "255/70R22.5",
+            "pattern": "Drive",
+            "loadRange": "F",
+            "description": "Compact drive tire for urban delivery.",
+            "image": "/assets/truck/Double Coin/Drive/25570R22.5.png"
+          },
+          {
+            "id": 1006,
+            "name": "Double Coin FT105 10R22.5 Drive Tire",
+            "price": "$250.00",
+            "offerPrice": "$130.00",
+            "brand": "Double Coin",
+            "size": "10R22.5",
+            "pattern": "Drive",
+            "loadRange": "F",
+            "description": "Narrower drive tire for lightweight applications.",
+            "image": "/assets/truck/Double Coin/Drive/10 R22.5.png"
+          },
+          {
+            "id": 1007,
+            "name": "Double Coin FT105 120.00R15TR Drive Tire",
+            "price": "$240.00",
+            "offerPrice": "$128.00",
+            "brand": "Double Coin",
+            "size": "120.00R15TR",
+            "pattern": "Drive",
+            "loadRange": "G",
+            "description": "Compact drive tire for light trucks.",
+            "image": "/assets/truck/Double Coin/Drive/12.00R24.png"
+          },
+          {
+            "id": 1008,
+            "name": "Double Coin RR202 10.00R20 Drive Tire",
+            "price": "$310.00",
+            "offerPrice": "$134.00",
+            "brand": "Double Coin",
+            "size": "10.00R20",
+            "pattern": "Drive",
+            "loadRange": "G",
+            "description": "Durable drive tire for regional haul.",
+            "image": "/assets/truck/Double Coin/Drive/10.00R20.png"
+          },
+          {
+            "id": 1009,
+            "name": "Double Coin FT105 10R17.5 Drive Tire",
+            "price": "$220.00",
+            "offerPrice": "$134.00",
+            "brand": "Double Coin",
+            "size": "10R17.5",
+            "pattern": "Drive",
+            "loadRange": "F",
+            "description": "Light-duty drive tire for urban logistics.",
+            "image": "/assets/truck/Double Coin/Drive/10R17.5.png"
+          },
+          {
+            "id": 1010,
+            "name": "Double Coin FT105 9R22.5 Drive Tire",
+            "price": "$230.00",
+            "offerPrice": "$134.00",
+            "brand": "Double Coin",
+            "size": "9R22.5",
+            "pattern": "Drive",
+            "loadRange": "F",
+            "description": "Compact drive tire for light-duty applications.",
+            "image": "/assets/truck/Double Coin/Drive/10.00R15TR.png"
+          },
+          {
+            "id": 1011,
+            "name": "Double Coin RR202 11.00R22 Drive Tire",
+            "price": "$300.00",
+            "offerPrice": "$134.00",
+            "brand": "Double Coin",
+            "size": "11.00R22",
+            "pattern": "Drive",
+            "loadRange": "G",
+            "description": "Versatile drive tire for mixed applications.",
+            "image": "/assets/truck/Double Coin/Drive/11.00R22.png"
+          },
+          {
+            "id": 1012,
+            "name": "Double Coin RR202 12.00R24 Drive Tire",
+            "price": "$380.00",
+            "offerPrice": "$154.00",
+            "brand": "Double Coin",
+            "size": "12.00R24",
+            "pattern": "Drive",
+            "loadRange": "H",
+            "description": "High-capacity drive tire for heavy loads.",
+            "image": "/assets/truck/Double Coin/Drive/12.00R24.png"
+          },
+          {
+            "id": 1013,
+            "name": "Double Coin FT105 12R22.5 Drive Tire",
+            "price": "$360.00",
+            "offerPrice": "$154.00",
+            "brand": "Double Coin",
+            "size": "12R22.5",
+            "pattern": "Drive",
+            "loadRange": "H",
+            "description": "High-performance drive tire for long-haul.",
+            "image": "/assets/truck/Double Coin/Drive/12R22.5.png"
+          },
+          {
+            "id": 1014,
+            "name": "Double Coin RR202 12R24.5 Drive Tire",
+            "price": "$370.00",
+            "offerPrice": "$154.00",
+            "brand": "Double Coin",
+            "size": "12R24.5",
+            "pattern": "Drive",
+            "loadRange": "H",
+            "description": "Heavy-duty drive tire for maximum load capacity.",
+            "image": "/assets/truck/Double Coin/Drive/12R24.5.png"
+          },
+          {
+            "id": 1015,
+            "name": "Double Coin FT105 215/75R17.5 Drive Tire",
+            "price": "$210.00",
+            "offerPrice": "$144.00",
+            "brand": "Double Coin",
+            "size": "215/75R17.5",
+            "pattern": "Drive",
+            "loadRange": "F",
+            "description": "Light-duty drive tire for urban delivery.",
+            "image": "/assets/truck/Double Coin/Drive/21575R17.5.png"
+          },
+          {
+            "id": 1016,
+            "name": "Double Coin FT105 225/70R19.5 Drive Tire",
+            "price": "$240.00",
+            "offerPrice": "$144.00",
+            "brand": "Double Coin",
+            "size": "225/70R19.5",
+            "pattern": "Drive",
+            "loadRange": "G",
+            "description": "Medium-duty drive tire for regional haul.",
+            "image": "/assets/truck/Double Coin/Drive/22570R19.5.png"
+          },
+          {
+            "id": 1017,
+            "name": "Double Coin FT105 235/775R17.5 Drive Tire",
+            "price": "$220.00",
+            "offerPrice": "$144.00",
+            "brand": "Double Coin",
+            "size": "235/775R17.5",
+            "pattern": "Drive",
+            "loadRange": "F",
+            "description": "Light-duty drive tire for urban logistics.",
+            "image": "/assets/truck/Double Coin/Drive/23575R17.5.png"
+          },
+          {
+            "id": 1018,
+            "name": "Double Coin FT105 245/70R17.5 Drive Tire",
+            "price": "$250.00",
+            "offerPrice": "$144.00",
+            "brand": "Double Coin",
+            "size": "245/70R17.5",
+            "pattern": "Drive",
+            "loadRange": "G",
+            "description": "Versatile drive tire for light trucks.",
+            "image": "/assets/truck/Double Coin/Drive/24570R17.5.png"
+          },
+          {
+            "id": 1019,
+            "name": "Double Coin FT105 245/70R19.5 Drive Tire",
+            "price": "$260.00",
+            "offerPrice": "$144.00",
+            "brand": "Double Coin",
+            "size": "245/70R19.5",
+            "pattern": "Drive",
+            "loadRange": "G",
+            "description": "Medium-duty drive tire for regional haul.",
+            "image": "/assets/truck/Double Coin/Drive/24570R19.5.png"
+          },
+          {
+            "id": 1020,
+            "name": "Double Coin FT105 265/770R19.5 Drive Tire",
+            "price": "$270.00",
+            "offerPrice": "$144.00",
+            "brand": "Double Coin",
+            "size": "265/770R19.5",
+            "pattern": "Drive",
+            "loadRange": "G",
+            "description": "Wider drive tire for improved stability.",
+            "image": "/assets/truck/Double Coin/Drive/26570R19.5.png"
+          },
+          {
+            "id": 1021,
+            "name": "Double Coin RLB4 275/70R22.5 Drive Tire",
+            "price": "$300.00",
+            "offerPrice": "$144.00",
+            "brand": "Double Coin",
+            "size": "275/70R22.5",
+            "pattern": "Drive",
+            "loadRange": "G",
+            "description": "Stable drive performance for mixed terrain.",
+            "image": "/assets/truck/Double Coin/Drive/27570R22.5.png"
+          },
+          {
+            "id": 1022,
+            "name": "Double Coin FT105 285/70R19.5 Drive Tire",
+            "price": "$290.00",
+            "offerPrice": "$144.00",
+            "brand": "Double Coin",
+            "size": "285/70R19.5",
+            "pattern": "Drive",
+            "loadRange": "G",
+            "description": "Wide drive tire for medium-duty applications.",
+            "image": "/assets/truck/Double Coin/Drive/28570R19.5.png"
+          },
+          {
+            "id": 1023,
+            "name": "Double Coin RR202 285/75R24.5 Drive Tire",
+            "price": "$340.00",
+            "offerPrice": "$144.00",
+            "brand": "Double Coin",
+            "size": "285/75R24.5",
+            "pattern": "Drive",
+            "loadRange": "H",
+            "description": "High-capacity drive tire for heavy loads.",
+            "image": "/assets/truck/Double Coin/Drive/28575R24.5.png"
+          },
+          {
+            "id": 1024,
+            "name": "Double Coin RLB4 295/80R22.5 Drive Tire",
+            "price": "$330.00",
+            "offerPrice": "$144.00",
+            "brand": "Double Coin",
+            "size": "295/80R22.5",
+            "pattern": "Drive",
+            "loadRange": "H",
+            "description": "Taller drive tire for improved fuel economy.",
+            "image": "/assets/truck/Double Coin/Drive/29580R22.5.png"
+          },
+          {
+            "id": 1025,
+            "name": "Double Coin RR202 305/75R24.5 Drive Tire",
+            "price": "$350.00",
+            "offerPrice": "$144.00",
+            "brand": "Double Coin",
+            "size": "305/75R24.5",
+            "pattern": "Drive",
+            "loadRange": "H",
+            "description": "High-performance drive tire for extreme loads.",
+            "image": "/assets/truck/Double Coin/Drive/30575R24.5.png"
+          },
+          {
+            "id": 1026,
+            "name": "Double Coin RR202 385/55R19.5 Drive Tire",
+            "price": "$400.00",
+            "offerPrice": "$190.00",
+            "brand": "Double Coin",
+            "size": "385/55R19.5",
+            "pattern": "Drive",
+            "loadRange": "H",
+            "description": "Wide-base drive tire for maximum stability.",
+            "image": "/assets/truck/Double Coin/Drive/38555R19.5.png"
+          },
+          {
+            "id": 1027,
+            "name": "Double Coin RR202 385/55R22.5 Drive Tire",
+            "price": "$410.00",
+            "offerPrice": "$190.00",
+            "brand": "Double Coin",
+            "size": "385/55R22.5",
+            "pattern": "Drive",
+            "loadRange": "J",
+            "description": "Wide-base drive tire for maximum load capacity.",
+            "image": "/assets/truck/Double Coin/Drive/38555R22.5.png"
+          },
+          {
+            "id": 1028,
+            "name": "Double Coin FT105 295/75R22.5 Steer Tire",
+            "price": "$290.00",
+            "offerPrice": "$140.00",
+            "brand": "Double Coin",
+            "size": "295/75R22.5",
+            "pattern": "Steer",
+            "loadRange": "G",
+            "description": "Stable steering performance with reinforced shoulders.",
+            "image": "/assets/truck/Double Coin/Steer/29575R22.5.png"
+          },
+          {
+            "id": 1029,
+            "name": "Double Coin RLB4 315/80R22.5 Steer Tire",
+            "price": "$360.00",
+            "offerPrice": "$130.00",
+            "brand": "Double Coin",
+            "size": "315/80R22.5",
+            "pattern": "Steer",
+            "loadRange": "H",
+            "description": "High-stability steer tire for heavy loads.",
+            "image": "/assets/truck/Double Coin/Steer/31580R22.5.png"
+          },
+          {
+            "id": 1030,
+            "name": "Double Coin FT105 11R22.5 Steer Tire",
+            "price": "$285.00",
+            "offerPrice": "$130.00",
+            "brand": "Double Coin",
+            "size": "11R22.5",
+            "pattern": "Steer",
+            "loadRange": "G",
+            "description": "Reliable steering tire for regional haul.",
+            "image": "/assets/truck/Double Coin/Steer/11R22.5.png"
+          },
+          {
+            "id": 1031,
+            "name": "Double Coin FT105 11R24.5 Steer Tire",
+            "price": "$295.00",
+            "offerPrice": "$132.00",
+            "brand": "Double Coin",
+            "size": "11R24.5",
+            "pattern": "Steer",
+            "loadRange": "G",
+            "description": "Durable steering tire for long-haul applications.",
+            "image": "/assets/truck/Double Coin/Steer/11R24.5.png"
+          },
+          {
+            "id": 1032,
+            "name": "Double Coin RLB4 295/80R22.5 Steer Tire",
+            "price": "$340.00",
+            "offerPrice": "$144.00",
+            "brand": "Double Coin",
+            "size": "295/80R22.5",
+            "pattern": "Steer",
+            "loadRange": "H",
+            "description": "Taller steer tire for improved stability.",
+            "image": "/assets/truck/Double Coin/Steer/29580R22.5.png"
+          },
+          {
+            "id": 1033,
+            "name": "Double Coin RR202 385/65R22.5 Steer Tire",
+            "price": "$430.00",
+            "offerPrice": "$212.00",
+            "brand": "Double Coin",
+            "size": "385/65R22.5",
+            "pattern": "Steer",
+            "loadRange": "J",
+            "description": "Wide-base steer tire for maximum load capacity.",
+            "image": "/assets/truck/Double Coin/Steer/38565R22.5.png"
+          },
+          {
+            "id": 1034,
+            "name": "Double Coin FT105 255/70R22.5 Steer Tire",
+            "price": "$265.00",
+            "offerPrice": "$138.00",
+            "brand": "Double Coin",
+            "size": "255/70R22.5",
+            "pattern": "Steer",
+            "loadRange": "F",
+            "description": "Compact steer tire for urban applications.",
+            "image": "/assets/truck/Double Coin/Steer/25570R22.5.png"
+          },
+          {
+            "id": 1035,
+            "name": "Double Coin FT105 10R22.5 Steer Tire",
+            "price": "$255.00",
+            "offerPrice": "$127.00",
+            "brand": "Double Coin",
+            "size": "10R22.5",
+            "pattern": "Steer",
+            "loadRange": "F",
+            "description": "Narrower steer tire for lightweight trucks.",
+            "image": "/assets/truck/Double Coin/Steer/10 R22.5.png"
+          },
+          {
+            "id": 1036,
+            "name": "Double Coin FT105 120.00R15TR Steer Tire",
+            "price": "$245.00",
+            "offerPrice": "$128.00",
+            "brand": "Double Coin",
+            "size": "120.00R15TR",
+            "pattern": "Steer",
+            "loadRange": "G",
+            "description": "Compact steer tire for light trucks.",
+            "image": "/assets/truck/Double Coin/Steer/12.00R24.png"
+          },
+          {
+            "id": 1037,
+            "name": "Double Coin RR202 10.00R20 Steer Tire",
+            "price": "$315.00",
+            "offerPrice": "$134.00",
+            "brand": "Double Coin",
+            "size": "10.00R20",
+            "pattern": "Steer",
+            "loadRange": "G",
+            "description": "Durable steer tire for regional haul.",
+            "image": "/assets/truck/Double Coin/Steer/10.00R20.png"
+          },
+          {
+            "id": 1038,
+            "name": "Double Coin FT105 10R17.5 Steer Tire",
+            "price": "$225.00",
+            "offerPrice": "$134.00",
+            "brand": "Double Coin",
+            "size": "10R17.5",
+            "pattern": "Steer",
+            "loadRange": "F",
+            "description": "Light-duty steer tire for urban logistics.",
+            "image": "/assets/truck/Double Coin/Steer/10R17.5.png"
+          },
+          {
+            "id": 1039,
+            "name": "Double Coin FT105 9R22.5 Steer Tire",
+            "price": "$235.00",
+            "offerPrice": "$134.00",
+            "brand": "Double Coin",
+            "size": "9R22.5",
+            "pattern": "Steer",
+            "loadRange": "F",
+            "description": "Compact steer tire for light-duty applications.",
+            "image": "/assets/truck/Double Coin/Steer/9R22.5.png"
+          },
+          {
+            "id": 1040,
+            "name": "Double Coin RR202 11.00R22 Steer Tire",
+            "price": "$305.00",
+            "offerPrice": "$134.00",
+            "brand": "Double Coin",
+            "size": "11.00R22",
+            "pattern": "Steer",
+            "loadRange": "G",
+            "description": "Versatile steer tire for mixed applications.",
+            "image": "/assets/truck/Double Coin/Steer/11.00R22.png"
+          },
+          {
+            "id": 1041,
+            "name": "Double Coin RR202 12.00R24 Steer Tire",
+            "price": "$385.00",
+            "offerPrice": "$154.00",
+            "brand": "Double Coin",
+            "size": "12.00R24",
+            "pattern": "Steer",
+            "loadRange": "H",
+            "description": "High-capacity steer tire for heavy loads.",
+            "image": "/assets/truck/Double Coin/Steer/12.00R24.png"
+          },
+          {
+            "id": 1042,
+            "name": "Double Coin FT105 12R22.5 Steer Tire",
+            "price": "$365.00",
+            "offerPrice": "$154.00",
+            "brand": "Double Coin",
+            "size": "12R22.5",
+            "pattern": "Steer",
+            "loadRange": "H",
+            "description": "High-performance steer tire for long-haul.",
+            "image": "/assets/truck/Double Coin/Steer/12R22.5.png"
+          },
+          {
+            "id": 1043,
+            "name": "Double Coin RR202 12R24.5 Steer Tire",
+            "price": "$375.00",
+            "offerPrice": "$154.00",
+            "brand": "Double Coin",
+            "size": "12R24.5",
+            "pattern": "Steer",
+            "loadRange": "H",
+            "description": "Heavy-duty steer tire for maximum load capacity.",
+            "image": "/assets/truck/Double Coin/Steer/12R24.5.png"
+          },
+          {
+            "id": 1044,
+            "name": "Double Coin FT105 215/75R17.5 Steer Tire",
+            "price": "$215.00",
+            "offerPrice": "$144.00",
+            "brand": "Double Coin",
+            "size": "215/75R17.5",
+            "pattern": "Steer",
+            "loadRange": "F",
+            "description": "Light-duty steer tire for urban delivery.",
+            "image": "/assets/truck/Double Coin/Steer/21575R17.5.png"
+          },
+          {
+            "id": 1045,
+            "name": "Double Coin FT105 225/70R19.5 Steer Tire",
+            "price": "$245.00",
+            "offerPrice": "$144.00",
+            "brand": "Double Coin",
+            "size": "225/70R19.5",
+            "pattern": "Steer",
+            "loadRange": "G",
+            "description": "Medium-duty steer tire for regional haul.",
+            "image": "/assets/truck/Double Coin/Steer/22570R19.5.png"
+          },
+          {
+            "id": 1046,
+            "name": "Double Coin FT105 235/775R17.5 Steer Tire",
+            "price": "$225.00",
+            "offerPrice": "$144.00",
+            "brand": "Double Coin",
+            "size": "235/775R17.5",
+            "pattern": "Steer",
+            "loadRange": "F",
+            "description": "Light-duty steer tire for urban logistics.",
+            "image": "/assets/truck/Double Coin/Steer/23575R17.5.png"
+          },
+          {
+            "id": 1047,
+            "name": "Double Coin FT105 245/70R17.5 Steer Tire",
+            "price": "$255.00",
+            "offerPrice": "$144.00",
+            "brand": "Double Coin",
+            "size": "245/70R17.5",
+            "pattern": "Steer",
+            "loadRange": "G",
+            "description": "Versatile steer tire for light trucks.",
+            "image": "/assets/truck/Double Coin/Steer/24570R17.5.png"
+          },
+          {
+            "id": 1048,
+            "name": "Double Coin FT105 245/70R19.5 Steer Tire",
+            "price": "$265.00",
+            "offerPrice": "$144.00",
+            "brand": "Double Coin",
+            "size": "245/70R19.5",
+            "pattern": "Steer",
+            "loadRange": "G",
+            "description": "Medium-duty steer tire for regional haul.",
+            "image": "/assets/truck/Double Coin/Steer/24570R19.5.png"
+          },
+          {
+            "id": 1049,
+            "name": "Double Coin FT105 265/770R19.5 Steer Tire",
+            "price": "$275.00",
+            "offerPrice": "$144.00",
+            "brand": "Double Coin",
+            "size": "265/770R19.5",
+            "pattern": "Steer",
+            "loadRange": "G",
+            "description": "Wider steer tire for improved stability.",
+            "image": "/assets/truck/Double Coin/Steer/26570R19.5.png"
+          },
+          {
+            "id": 1050,
+            "name": "Double Coin RLB4 275/70R22.5 Steer Tire",
+            "price": "$305.00",
+            "offerPrice": "$144.00",
+            "brand": "Double Coin",
+            "size": "275/70R22.5",
+            "pattern": "Steer",
+            "loadRange": "G",
+            "description": "Stable steer performance for mixed terrain.",
+            "image": "/assets/truck/Double Coin/Steer/27570R22.5.png"
+          },
+          {
+            "id": 1051,
+            "name": "Double Coin FT105 285/70R19.5 Steer Tire",
+            "price": "$295.00",
+            "offerPrice": "$144.00",
+            "brand": "Double Coin",
+            "size": "285/70R19.5",
+            "pattern": "Steer",
+            "loadRange": "G",
+            "description": "Wide steer tire for medium-duty applications.",
+            "image": "/assets/truck/Double Coin/Steer/28570R19.5.png"
+          },
+          {
+            "id": 1052,
+            "name": "Double Coin RR202 285/75R24.5 Steer Tire",
+            "price": "$345.00",
+            "offerPrice": "$144.00",
+            "brand": "Double Coin",
+            "size": "285/75R24.5",
+            "pattern": "Steer",
+            "loadRange": "H",
+            "description": "High-capacity steer tire for heavy loads.",
+            "image": "/assets/truck/Double Coin/Steer/28575R24.5.png"
+          },
+          {
+            "id": 1053,
+            "name": "Double Coin RR202 305/75R24.5 Steer Tire",
+            "price": "$355.00",
+            "offerPrice": "$144.00",
+            "brand": "Double Coin",
+            "size": "305/75R24.5",
+            "pattern": "Steer",
+            "loadRange": "H",
+            "description": "High-performance steer tire for extreme loads.",
+            "image": "/assets/truck/Double Coin/Steer/30575R24.5.png"
+          },
+          {
+            "id": 1054,
+            "name": "Double Coin RR202 385/55R19.5 Steer Tire",
+            "price": "$405.00",
+            "offerPrice": "$190.00",
+            "brand": "Double Coin",
+            "size": "385/55R19.5",
+            "pattern": "Steer",
+            "loadRange": "H",
+            "description": "Wide-base steer tire for maximum stability.",
+            "image": "/assets/truck/Double Coin/Steer/38555R19.5.png"
+          },
+          {
+            "id": 1055,
+            "name": "Double Coin RR202 385/55R22.5 Steer Tire",
+            "price": "$415.00",
+            "offerPrice": "$190.00",
+            "brand": "Double Coin",
+            "size": "385/55R22.5",
+            "pattern": "Steer",
+            "loadRange": "J",
+            "description": "Wide-base steer tire for maximum load capacity.",
+            "image": "/assets/truck/Double Coin/Steer/38555R22.5.png"
+          },
+          {
+            "id": 1056,
+            "name": "Double Coin FT105 11R24.5 Trailer Tire",
+            "price": "$270.00",
+            "offerPrice": "$132.00",
+            "brand": "Double Coin",
+            "size": "11R24.5",
+            "pattern": "Trailer",
+            "loadRange": "G",
+            "description": "Long-lasting trailer tire.",
+            "image": "/assets/truck/Double Coin/Trailer_Tire/11R24.5.png"
+          },
+          {
+            "id": 1057,
+            "name": "Double Coin FT105 11R22.5 Trailer Tire",
+            "price": "$280.00",
+            "offerPrice": "$132.00",
+            "brand": "Double Coin",
+            "size": "11R22.5",
+            "pattern": "Trailer",
+            "loadRange": "G",
+            "description": "Durable trailer tire for general hauling.",
+            "image": "/assets/truck/Double Coin/Trailer_Tire/11R22.5.png"
+          },
+          {
+            "id": 1058,
+            "name": "Double Coin FT105 295/75R22.5 Trailer Tire",
+            "price": "$275.00",
+            "offerPrice": "$140.00",
+            "brand": "Double Coin",
+            "size": "295/75R22.5",
+            "pattern": "Trailer",
+            "loadRange": "G",
+            "description": "Stable trailer tire for mixed loads.",
+            "image": "/assets/truck/Double Coin/Trailer_Tire/29575R22.5.png"
+          },
+          {
+            "id": 1059,
+            "name": "Double Coin RLB4 315/80R22.5 Trailer Tire",
+            "price": "$345.00",
+            "offerPrice": "$130.00",
+            "brand": "Double Coin",
+            "size": "315/80R22.5",
+            "pattern": "Trailer",
+            "loadRange": "H",
+            "description": "High-capacity trailer tire for heavy loads.",
+            "image": "/assets/truck/Double Coin/Trailer_Tire/31580R22.5.png"
+          },
+          {
+            "id": 1060,
+            "name": "Double Coin RR202 385/65R22.5 Trailer Tire",
+            "price": "$415.00",
+            "offerPrice": "$212.00",
+            "brand": "Double Coin",
+            "size": "385/65R22.5",
+            "pattern": "Trailer",
+            "loadRange": "J",
+            "description": "Wide-base trailer tire for maximum load capacity.",
+            "image": "/assets/truck/Double Coin/Trailer_Tire/38565R22.5.png"
+          },
+          {
+            "id": 1061,
+            "name": "Double Coin FT105 255/70R22.5 Trailer Tire",
+            "price": "$260.00",
+            "offerPrice": "$138.00",
+            "brand": "Double Coin",
+            "size": "255/70R22.5",
+            "pattern": "Trailer",
+            "loadRange": "F",
+            "description": "Compact trailer tire for urban applications.",
+            "image": "/assets/truck/Double Coin/Trailer_Tire/25570R22.5.png"
+          },
+          {
+            "id": 1062,
+            "name": "Double Coin FT105 10R22.5 Trailer Tire",
+            "price": "$250.00",
+            "offerPrice": "$127.00",
+            "brand": "Double Coin",
+            "size": "10R22.5",
+            "pattern": "Trailer",
+            "loadRange": "F",
+            "description": "Narrower trailer tire for lightweight applications.",
+            "image": "/assets/truck/Double Coin/Trailer_Tire/10 R22.5.png"
+          },
+          {
+            "id": 1063,
+            "name": "Double Coin FT105 120.00R15TR Trailer Tire",
+            "price": "$240.00",
+            "offerPrice": "$128.00",
+            "brand": "Double Coin",
+            "size": "120.00R15TR",
+            "pattern": "Trailer",
+            "loadRange": "G",
+            "description": "Compact trailer tire for light applications.",
+            "image": "/assets/truck/Double Coin/Trailer_Tire/12.00R24.png"
+          },
+          {
+            "id": 1064,
+            "name": "Double Coin RR202 10.00R20 Trailer Tire",
+            "price": "$310.00",
+            "offerPrice": "$134.00",
+            "brand": "Double Coin",
+            "size": "10.00R20",
+            "pattern": "Trailer",
+            "loadRange": "G",
+            "description": "Durable trailer tire for regional haul.",
+            "image": "/assets/truck/Double Coin/Trailer_Tire/10.00R20.png"
+          },
+          {
+            "id": 1065,
+            "name": "Double Coin FT105 10R17.5 Trailer Tire",
+            "price": "$220.00",
+            "offerPrice": "$134.00",
+            "brand": "Double Coin",
+            "size": "10R17.5",
+            "pattern": "Trailer",
+            "loadRange": "F",
+            "description": "Light-duty trailer tire for urban logistics.",
+            "image": "/assets/truck/Double Coin/Trailer_Tire/10R17.5.png"
+          },
+          {
+            "id": 1066,
+            "name": "Double Coin FT105 9R22.5 Trailer Tire",
+            "price": "$230.00",
+            "offerPrice": "$134.00",
+            "brand": "Double Coin",
+            "size": "9R22.5",
+            "pattern": "Trailer",
+            "loadRange": "F",
+            "description": "Compact trailer tire for light-duty applications.",
+            "image": "/assets/truck/Double Coin/Trailer_Tire/9R22.5.png"
+          },
+          {
+            "id": 1067,
+            "name": "Double Coin RR202 11.00R22 Trailer Tire",
+            "price": "$300.00",
+            "offerPrice": "$134.00",
+            "brand": "Double Coin",
+            "size": "11.00R22",
+            "pattern": "Trailer",
+            "loadRange": "G",
+            "description": "Versatile trailer tire for mixed applications.",
+            "image": "/assets/truck/Double Coin/Trailer_Tire/11.00R22.png"
+          },
+          {
+            "id": 1068,
+            "name": "Double Coin RR202 12.00R24 Trailer Tire",
+            "price": "$380.00",
+            "offerPrice": "$154.00",
+            "brand": "Double Coin",
+            "size": "12.00R24",
+            "pattern": "Trailer",
+            "loadRange": "H",
+            "description": "High-capacity trailer tire for heavy loads.",
+            "image": "/assets/truck/Double Coin/Trailer_Tire/12.00R24.png"
+          },
+          {
+            "id": 1069,
+            "name": "Double Coin FT105 12R22.5 Trailer Tire",
+            "price": "$360.00",
+            "offerPrice": "$154.00",
+            "brand": "Double Coin",
+            "size": "12R22.5",
+            "pattern": "Trailer",
+            "loadRange": "H",
+            "description": "High-performance trailer tire for long-haul.",
+            "image": "/assets/truck/Double Coin/Trailer_Tire/12R22.5.png"
+          },
+          {
+            "id": 1070,
+            "name": "Double Coin RR202 12R24.5 Trailer Tire",
+            "price": "$370.00",
+            "offerPrice": "$154.00",
+            "brand": "Double Coin",
+            "size": "12R24.5",
+            "pattern": "Trailer",
+            "loadRange": "H",
+            "description": "Heavy-duty trailer tire for maximum load capacity.",
+            "image": "/assets/truck/Double Coin/Trailer_Tire/12R24.5.png"
+          },
+          {
+            "id": 1071,
+            "name": "Double Coin FT105 215/75R17.5 Trailer Tire",
+            "price": "$210.00",
+            "offerPrice": "$144.00",
+            "brand": "Double Coin",
+            "size": "215/75R17.5",
+            "pattern": "Trailer",
+            "loadRange": "F",
+            "description": "Light-duty trailer tire for urban delivery.",
+            "image": "/assets/truck/Double Coin/Trailer_Tire/21575R17.5.png"
+          },
+          {
+            "id": 1072,
+            "name": "Double Coin FT105 225/70R19.5 Trailer Tire",
+            "price": "$240.00",
+            "offerPrice": "$144.00",
+            "brand": "Double Coin",
+            "size": "225/70R19.5",
+            "pattern": "Trailer",
+            "loadRange": "G",
+            "description": "Medium-duty trailer tire for regional haul.",
+            "image": "/assets/truck/Double Coin/Trailer_Tire/22570R19.5.png"
+          },
+          {
+            "id": 1073,
+            "name": "Double Coin FT105 235/775R17.5 Trailer Tire",
+            "price": "$220.00",
+            "offerPrice": "$144.00",
+            "brand": "Double Coin",
+            "size": "235/775R17.5",
+            "pattern": "Trailer",
+            "loadRange": "F",
+            "description": "Light-duty trailer tire for urban logistics.",
+            "image": "/assets/truck/Double Coin/Trailer_Tire/23575R17.5.png"
+          },
+          {
+            "id": 1074,
+            "name": "Double Coin FT105 245/70R17.5 Trailer Tire",
+            "price": "$250.00",
+            "offerPrice": "$144.00",
+            "brand": "Double Coin",
+            "size": "245/70R17.5",
+            "pattern": "Trailer",
+            "loadRange": "G",
+            "description": "Versatile trailer tire for light trucks.",
+            "image": "/assets/truck/Double Coin/Trailer_Tire/24570R17.5.png"
+          },
+          {
+            "id": 1075,
+            "name": "Double Coin FT105 245/70R19.5 Trailer Tire",
+            "price": "$260.00",
+            "offerPrice": "$144.00",
+            "brand": "Double Coin",
+            "size": "245/70R19.5",
+            "pattern": "Trailer",
+            "loadRange": "G",
+            "description": "Medium-duty trailer tire for regional haul.",
+            "image": "/assets/truck/Double Coin/Trailer_Tire/24570R19.5.png"
+          },
+          {
+            "id": 1076,
+            "name": "Double Coin FT105 265/770R19.5 Trailer Tire",
+            "price": "$270.00",
+            "offerPrice": "$144.00",
+            "brand": "Double Coin",
+            "size": "265/770R19.5",
+            "pattern": "Trailer",
+            "loadRange": "G",
+            "description": "Wider trailer tire for improved stability.",
+            "image": "/assets/truck/Double Coin/Trailer_Tire/26570R19.5.png"
+          },
+          {
+            "id": 1077,
+            "name": "Double Coin RLB4 275/70R22.5 Trailer Tire",
+            "price": "$300.00",
+            "offerPrice": "$144.00",
+            "brand": "Double Coin",
+            "size": "275/70R22.5",
+            "pattern": "Trailer",
+            "loadRange": "G",
+            "description": "Stable trailer tire for mixed terrain.",
+            "image": "/assets/truck/Double Coin/Trailer_Tire/27570R22.5.png"
+          },
+          {
+            "id": 1078,
+            "name": "Double Coin FT105 285/70R19.5 Trailer Tire",
+            "price": "$290.00",
+            "offerPrice": "$144.00",
+            "brand": "Double Coin",
+            "size": "285/70R19.5",
+            "pattern": "Trailer",
+            "loadRange": "G",
+            "description": "Wide trailer tire for medium-duty applications.",
+            "image": "/assets/truck/Double Coin/Trailer_Tire/28570R19.5.png"
+          },
+          {
+            "id": 1079,
+            "name": "Double Coin RR202 285/75R24.5 Trailer Tire",
+            "price": "$340.00",
+            "offerPrice": "$144.00",
+            "brand": "Double Coin",
+            "size": "285/75R24.5",
+            "pattern": "Trailer",
+            "loadRange": "H",
+            "description": "High-capacity trailer tire for heavy loads.",
+            "image": "/assets/truck/Double Coin/Trailer_Tire/28575R24.5.png"
+          },
+          {
+            "id": 1080,
+            "name": "Double Coin RLB4 295/80R22.5 Trailer Tire",
+            "price": "$335.00",
+            "offerPrice": "$144.00",
+            "brand": "Double Coin",
+            "size": "295/80R22.5",
+            "pattern": "Trailer",
+            "loadRange": "H",
+            "description": "Taller trailer tire for improved stability.",
+            "image": "/assets/truck/Double Coin/Trailer_Tire/29580R22.5.png"
+          },
+          {
+            "id": 1081,
+            "name": "Double Coin RR202 305/75R24.5 Trailer Tire",
+            "price": "$350.00",
+            "offerPrice": "$144.00",
+            "brand": "Double Coin",
+            "size": "305/75R24.5",
+            "pattern": "Trailer",
+            "loadRange": "H",
+            "description": "High-performance trailer tire for extreme loads.",
+            "image": "/assets/truck/Double Coin/Trailer_Tire/30575R24.5.png"
+          },
+          {
+            "id": 1082,
+            "name": "Double Coin RR202 385/55R19.5 Trailer Tire",
+            "price": "$400.00",
+            "offerPrice": "$190.00",
+            "brand": "Double Coin",
+            "size": "385/55R19.5",
+            "pattern": "Trailer",
+            "loadRange": "H",
+            "description": "Wide-base trailer tire for maximum stability.",
+            "image": "/assets/truck/Double Coin/Trailer_Tire/38555R19.5.png"
+          },
+          {
+            "id": 1083,
+            "name": "Double Coin RR202 385/55R22.5 Trailer Tire",
+            "price": "$410.00",
+            "offerPrice": "$190.00",
+            "brand": "Double Coin",
+            "size": "385/55R22.5",
+            "pattern": "Trailer",
+            "loadRange": "J",
+            "description": "Wide-base trailer tire for maximum load capacity.",
+            "image": "/assets/truck/Double Coin/Trailer_Tire/38555R22.5.png"
+          },
+          {
+            "id": 1084,
+            "name": "Michelin X Multi D 315/80R22.5 Drive Tire",
+            "price": "$220.00",
+            "offerPrice": "$135.00",
+            "brand": "Michelin",
+            "size": "315/80R22.5",
+            "pattern": "Drive",
+            "loadRange": "H",
+            "description": "Fuel-efficient drive tire with high mileage.",
+            "image": "/assets/truck/Michelin/Drive/31580R22.5.png"
+          },
+          {
+            "id": 1085,
+            "name": "Michelin X Line Energy D 11R22.5 Drive Tire",
+            "price": "$190.00",
+            "offerPrice": "$131.00",
+            "brand": "Michelin",
+            "size": "11R22.5",
+            "pattern": "Drive",
+            "loadRange": "G",
+            "description": "Regional haul tire with fuel savings.",
+            "image": "/assets/truck/Michelin/Drive/11R22.5.png"
+          },
+          {
+            "id": 1086,
+            "name": "Michelin X One XDN2 385/65R22.5 Drive Tire",
+            "price": "$250.00",
+            "offerPrice": "$160.00",
+            "brand": "Michelin",
+            "size": "385/65R22.5",
+            "pattern": "Drive",
+            "loadRange": "J",
+            "description": "Wide-base single tire for fuel efficiency.",
+            "image": "/assets/truck/Michelin/Drive/38565R22.5.png"
+          },
+          {
+            "id": 1087,
+            "name": "Michelin X Line Energy D 11R24.5 Drive Tire",
+            "price": "$190.00",
+            "offerPrice": "$132.00",
+            "brand": "Michelin",
+            "size": "11R24.5",
+            "pattern": "Drive",
+            "loadRange": "G",
+            "description": "Regional haul tire for 24.5\" rims.",
+            "image": "/assets/truck/Michelin/Drive/11R24.5.png"
+          },
+          {
+            "id": 1088,
+            "name": "Michelin X Multi D 295/75R22.5 Drive Tire",
+            "price": "$210.00",
+            "offerPrice": "$148.00",
+            "brand": "Michelin",
+            "size": "295/75R22.5",
+            "pattern": "Drive",
+            "loadRange": "H",
+            "description": "Versatile drive tire for mixed routes.",
+            "image": "/assets/truck/Michelin/Drive/29575R22.5.png"
+          },
+          {
+            "id": 1089,
+            "name": "Michelin X Multi D 295/80R22.5 Drive Tire",
+            "price": "$215.00",
+            "offerPrice": "$155.00",
+            "brand": "Michelin",
+            "size": "295/80R22.5",
+            "pattern": "Drive",
+            "loadRange": "H",
+            "description": "High-mileage drive tire for long haul.",
+            "image": "/assets/truck/Michelin/Drive/29580R22.5.png"
+          },
+          {
+            "id": 1090,
+            "name": "Michelin X Line Energy D 255/70R22.5 Drive Tire",
+            "price": "$180.00",
+            "offerPrice": "$134.00",
+            "brand": "Michelin",
+            "size": "255/70R22.5",
+            "pattern": "Drive",
+            "loadRange": "F",
+            "description": "Light regional drive tire.",
+            "image": "/assets/truck/Michelin/Drive/25570R22.5.png"
+          },
+          {
+            "id": 1091,
+            "name": "Michelin X Line Energy D 10 R22.5 Drive Tire",
+            "price": "$175.00",
+            "offerPrice": "$125.00",
+            "brand": "Michelin",
+            "size": "10 R22.5",
+            "pattern": "Drive",
+            "loadRange": "F",
+            "description": "Standard drive tire for 10R22.5 size.",
+            "image": "/assets/truck/Michelin/Drive/10 R22.5.png"
+          },
+          {
+            "id": 1092,
+            "name": "Michelin X Multi S 315/80R22.5 Steer Tire",
+            "price": "$220.00",
+            "offerPrice": "$132.00",
+            "brand": "Michelin",
+            "size": "315/80R22.5",
+            "pattern": "Steer",
+            "loadRange": "H",
+            "description": "Steer tire for wide-axle applications.",
+            "image": "/assets/truck/Michelin/Steer/31580R22.5.png"
+          },
+          {
+            "id": 1093,
+            "name": "Michelin X One XSN 385/65R22.5 Steer Tire",
+            "price": "$250.00",
+            "offerPrice": "$158.00",
+            "brand": "Michelin",
+            "size": "385/65R22.5",
+            "pattern": "Steer",
+            "loadRange": "J",
+            "description": "Wide-base steer tire for stability.",
+            "image": "/assets/truck/Michelin/Steer/38565R22.5.png"
+          },
+          {
+            "id": 1094,
+            "name": "Michelin X Multi S 11R22.5 Steer Tire",
+            "price": "$190.00",
+            "offerPrice": "$128.00",
+            "brand": "Michelin",
+            "size": "11R22.5",
+            "pattern": "Steer",
+            "loadRange": "G",
+            "description": "Steer tire for 11R22.5 applications.",
+            "image": "/assets/truck/Michelin/Steer/11R22.5.png"
+          },
+          {
+            "id": 1095,
+            "name": "Michelin X Multi S 11R24.5 Steer Tire",
+            "price": "$190.00",
+            "offerPrice": "$128.00",
+            "brand": "Michelin",
+            "size": "11R24.5",
+            "pattern": "Steer",
+            "loadRange": "G",
+            "description": "Steer tire for 24.5\" wheel positions.",
+            "image": "/assets/truck/Michelin/Steer/11R24.5.png"
+          },
+          {
+            "id": 1096,
+            "name": "Michelin X Multi S 295/75R22.5 Steer Tire",
+            "price": "$210.00",
+            "offerPrice": "$145.00",
+            "brand": "Michelin",
+            "size": "295/75R22.5",
+            "pattern": "Steer",
+            "loadRange": "H",
+            "description": "Precision steering tire for stability.",
+            "image": "/assets/truck/Michelin/Steer/29575R22.5.png"
+          },
+          {
+            "id": 1097,
+            "name": "Michelin X Multi S 295/80R22.5 Steer Tire",
+            "price": "$215.00",
+            "offerPrice": "$152.00",
+            "brand": "Michelin",
+            "size": "295/80R22.5",
+            "pattern": "Steer",
+            "loadRange": "H",
+            "description": "High-load steer tire for stability.",
+            "image": "/assets/truck/Michelin/Steer/29580R22.5.png"
+          },
+          {
+            "id": 1098,
+            "name": "Michelin X Multi S 255/70R22.5 Steer Tire",
+            "price": "$180.00",
+            "offerPrice": "$132.00",
+            "brand": "Michelin",
+            "size": "255/70R22.5",
+            "pattern": "Steer",
+            "loadRange": "F",
+            "description": "Light steer tire for urban applications.",
+            "image": "/assets/truck/Michelin/Steer/25570R22.5.png"
+          },
+          {
+            "id": 1099,
+            "name": "Michelin X Multi S 10 R22.5 Steer Tire",
+            "price": "$175.00",
+            "offerPrice": "$122.00",
+            "brand": "Michelin",
+            "size": "10 R22.5",
+            "pattern": "Steer",
+            "loadRange": "F",
+            "description": "Standard steer tire for 10R22.5 size.",
+            "image": "/assets/truck/Michelin/Steer/10 R22.5.png"
+          },
+          {
+            "id": 1100,
+            "name": "Michelin X Multi T 315/80R22.5 Trailer Tire",
+            "price": "$220.00",
+            "offerPrice": "$132.00",
+            "brand": "Michelin",
+            "size": "315/80R22.5",
+            "pattern": "Trailer",
+            "loadRange": "H",
+            "description": "High-capacity trailer tire.",
+            "image": "/assets/truck/Michelin/Trailer_Tire/31580R22.5.png"
+          },
+          {
+            "id": 1101,
+            "name": "Michelin X One XTA 385/65R22.5 Trailer Tire",
+            "price": "$250.00",
+            "offerPrice": "$158.00",
+            "brand": "Michelin",
+            "size": "385/65R22.5",
+            "pattern": "Trailer",
+            "loadRange": "J",
+            "description": "Wide-base trailer tire for fuel savings.",
+            "image": "/assets/truck/Michelin/Trailer_Tire/38565R22.5.png"
+          },
+          {
+            "id": 1102,
+            "name": "Michelin X Multi T 11R22.5 Trailer Tire",
+            "price": "$190.00",
+            "offerPrice": "$128.00",
+            "brand": "Michelin",
+            "size": "11R22.5",
+            "pattern": "Trailer",
+            "loadRange": "G",
+            "description": "Trailer tire for standard 11R22.5 fitment.",
+            "image": "/assets/truck/Michelin/Trailer_Tire/11R22.5.png"
+          },
+          {
+            "id": 1103,
+            "name": "Michelin X Multi T 11R24.5 Trailer Tire",
+            "price": "$190.00",
+            "offerPrice": "$128.00",
+            "brand": "Michelin",
+            "size": "11R24.5",
+            "pattern": "Trailer",
+            "loadRange": "G",
+            "description": "Trailer tire for 24.5\" wheel positions.",
+            "image": "/assets/truck/Michelin/Trailer_Tire/11R24.5.png"
+          },
+          {
+            "id": 1104,
+            "name": "Michelin X Multi T 295/75R22.5 Trailer Tire",
+            "price": "$210.00",
+            "offerPrice": "$145.00",
+            "brand": "Michelin",
+            "size": "295/75R22.5",
+            "pattern": "Trailer",
+            "loadRange": "H",
+            "description": "Trailer tire for mixed-service use.",
+            "image": "/assets/truck/Michelin/Trailer_Tire/29575R22.5.png"
+          },
+          {
+            "id": 1105,
+            "name": "Michelin X Multi T 295/80R22.5 Trailer Tire",
+            "price": "$215.00",
+            "offerPrice": "$152.00",
+            "brand": "Michelin",
+            "size": "295/80R22.5",
+            "pattern": "Trailer",
+            "loadRange": "H",
+            "description": "Durable trailer tire for even wear.",
+            "image": "/assets/truck/Michelin/Trailer_Tire/29580R22.5.png"
+          },
+          {
+            "id": 1106,
+            "name": "Michelin X Multi T 255/70R22.5 Trailer Tire",
+            "price": "$180.00",
+            "offerPrice": "$132.00",
+            "brand": "Michelin",
+            "size": "255/70R22.5",
+            "pattern": "Trailer",
+            "loadRange": "F",
+            "description": "Light-duty trailer tire.",
+            "image": "/assets/truck/Michelin/Trailer_Tire/25570R22.5.png"
+          },
+          {
+            "id": 1107,
+            "name": "Michelin X Multi T 10 R22.5 Trailer Tire",
+            "price": "$175.00",
+            "offerPrice": "$122.00",
+            "brand": "Michelin",
+            "size": "10 R22.5",
+            "pattern": "Trailer",
+            "loadRange": "F",
+            "description": "Standard trailer tire for 10R22.5 size.",
+            "image": "/assets/truck/Michelin/Trailer_Tire/10 R22.5.png"
+          },
+          {
+            "id": 1108,
+            "name": "Goodyear Fuel Max RSA 315/80R22.5 Drive Tire",
+            "price": "£340.00",
+            "offerPrice": "$210.00",
+            "brand": "Goodyear",
+            "size": "315/80R22.5",
+            "pattern": "Drive",
+            "loadRange": "H",
+            "description": "Ultra fuel-efficient drive tire.",
+            "image": "/assets/truck/Goodyear/Drive/31580R22.5.png"
+          },
+          {
+            "id": 1109,
+            "name": "Goodyear Fuel Max RSA 295/75R22.5 Drive Tire",
+            "price": "£335.00",
+            "offerPrice": "$210.00",
+            "brand": "Goodyear",
+            "size": "295/75R22.5",
+            "pattern": "Drive",
+            "loadRange": "H",
+            "description": "Regional haul drive tire with fuel-saving technology.",
+            "image": "/assets/truck/Goodyear/Drive/29575R22.5.png"
+          },
+          {
+            "id": 1110,
+            "name": "Goodyear Fuel Max RSA+ 295/80R22.5 Drive Tire",
+            "price": "£345.00",
+            "offerPrice": "$210.00",
+            "brand": "Goodyear",
+            "size": "295/80R22.5",
+            "pattern": "Drive",
+            "loadRange": "H",
+            "description": "Extended mileage drive tire with reinforced casing.",
+            "image": "/assets/truck/Goodyear/Drive/29580R22.5.png"
+          },
+          {
+            "id": 1111,
+            "name": "Goodyear Endurance RSA HD 11R22.5 Drive Tire",
+            "price": "£320.00",
+            "offerPrice": "$205.00",
+            "brand": "Goodyear",
+            "size": "11R22.5",
+            "pattern": "Drive",
+            "loadRange": "G",
+            "description": "Heavy-duty drive tire for mixed service applications.",
+            "image": "/assets/truck/Goodyear/Drive/11R22.5.png"
+          },
+          {
+            "id": 1112,
+            "name": "Goodyear Endurance RSA HD 11R24.5 Drive Tire",
+            "price": "£330.00",
+            "offerPrice": "$208.00",
+            "brand": "Goodyear",
+            "size": "11R24.5",
+            "pattern": "Drive",
+            "loadRange": "G",
+            "description": "Durable all-position tire for long-haul applications.",
+            "image": "/assets/truck/Goodyear/Drive/11R24.5.png"
+          },
+          {
+            "id": 1113,
+            "name": "Goodyear WideBase RSA 385/65R22.5 Drive Tire",
+            "price": "£410.00",
+            "offerPrice": "$240.00",
+            "brand": "Goodyear",
+            "size": "385/65R22.5",
+            "pattern": "Drive",
+            "loadRange": "J",
+            "description": "High-capacity wide base drive tire with fuel-saving design.",
+            "image": "/assets/truck/Goodyear/Drive/38565R22.5.png"
+          },
+          {
+            "id": 1114,
+            "name": "Goodyear Regional RSD 255/70R22.5 Drive Tire",
+            "price": "£310.00",
+            "offerPrice": "$225.00",
+            "brand": "Goodyear",
+            "size": "255/70R22.5",
+            "pattern": "Drive",
+            "loadRange": "G",
+            "description": "Regional service drive tire with reinforced shoulders.",
+            "image": "/assets/truck/Goodyear/Drive/25570R22.5.png"
+          },
+          {
+            "id": 1115,
+            "name": "Goodyear Endurance RSA 10R22.5 Drive Tire",
+            "price": "£315.00",
+            "offerPrice": "$205.00",
+            "brand": "Goodyear",
+            "size": "10R22.5",
+            "pattern": "Drive",
+            "loadRange": "G",
+            "description": "Versatile all-position tire for urban and regional haul.",
+            "image": "/assets/truck/Goodyear/Drive/10 R22.5.png"
+          },
+          {
+            "id": 1116,
+            "name": "Goodyear G395 LHS 255/70R22.5 Steer Tire",
+            "price": "£360.00",
+            "offerPrice": "$222.00",
+            "brand": "Goodyear",
+            "size": "255/70R22.5",
+            "pattern": "Steer",
+            "loadRange": "G",
+            "description": "Precision steering for regional haul.",
+            "image": "/assets/truck/Goodyear/Steer/25570R22.5.png"
+          },
+          {
+            "id": 1117,
+            "name": "Goodyear G397 LHS 315/80R22.5 Steer Tire",
+            "price": "£380.00",
+            "offerPrice": "$207.00",
+            "brand": "Goodyear",
+            "size": "315/80R22.5",
+            "pattern": "Steer",
+            "loadRange": "H",
+            "description": "Premium steer tire with advanced tread compound.",
+            "image": "/assets/truck/Goodyear/Steer/31580R22.5.png"
+          },
+          {
+            "id": 1118,
+            "name": "Goodyear G395 XT LHS 11R22.5 Steer Tire",
+            "price": "£370.00",
+            "offerPrice": "$202.00",
+            "brand": "Goodyear",
+            "size": "11R22.5",
+            "pattern": "Steer",
+            "loadRange": "G",
+            "description": "Extended tread life steer tire for long-haul applications.",
+            "image": "/assets/truck/Goodyear/Steer/11R22.5.png"
+          },
+          {
+            "id": 1119,
+            "name": "Goodyear G395 XT LHS 11R24.5 Steer Tire",
+            "price": "£375.00",
+            "offerPrice": "$205.00",
+            "brand": "Goodyear",
+            "size": "11R24.5",
+            "pattern": "Steer",
+            "loadRange": "G",
+            "description": "Durable steer tire with reinforced casing construction.",
+            "image": "/assets/truck/Goodyear/Steer/11R24.5.png"
+          },
+          {
+            "id": 1120,
+            "name": "Goodyear G397 LHS 295/75R22.5 Steer Tire",
+            "price": "£375.00",
+            "offerPrice": "$207.00",
+            "brand": "Goodyear",
+            "size": "295/75R22.5",
+            "pattern": "Steer",
+            "loadRange": "H",
+            "description": "Regional haul steer tire with stable handling characteristics.",
+            "image": "/assets/truck/Goodyear/Steer/29575R22.5.png"
+          },
+          {
+            "id": 1121,
+            "name": "Goodyear G397 LHS 295/80R22.5 Steer Tire",
+            "price": "£380.00",
+            "offerPrice": "$207.00",
+            "brand": "Goodyear",
+            "size": "295/80R22.5",
+            "pattern": "Steer",
+            "loadRange": "H",
+            "description": "Long-haul steer tire with optimized tread design.",
+            "image": "/assets/truck/Goodyear/Steer/29580R22.5.png"
+          },
+          {
+            "id": 1122,
+            "name": "Goodyear WideBase LHS 385/65R22.5 Steer Tire",
+            "price": "£430.00",
+            "offerPrice": "$238.00",
+            "brand": "Goodyear",
+            "size": "385/65R22.5",
+            "pattern": "Steer",
+            "loadRange": "J",
+            "description": "High-stability wide base steer tire for heavy loads.",
+            "image": "/assets/truck/Goodyear/Steer/38565R22.5.png"
+          },
+          {
+            "id": 1123,
+            "name": "Goodyear G390 LHS 10R22.5 Steer Tire",
+            "price": "£350.00",
+            "offerPrice": "$202.00",
+            "brand": "Goodyear",
+            "size": "10R22.5",
+            "pattern": "Steer",
+            "loadRange": "G",
+            "description": "Versatile steer tire for urban and regional applications.",
+            "image": "/assets/truck/Goodyear/Steer/10 R22.5.png"
+          },
+          {
+            "id": 1124,
+            "name": "Goodyear G316 LHT 11R24.5 Trailer Tire",
+            "price": "£310.00",
+            "offerPrice": "$205.00",
+            "brand": "Goodyear",
+            "size": "11R24.5",
+            "pattern": "Trailer",
+            "loadRange": "G",
+            "description": "Trailer tire with even wear design.",
+            "image": "/assets/truck/Goodyear/Trailer_Tire/11R24.5.png"
+          },
+          {
+            "id": 1125,
+            "name": "Goodyear G316 LHT 11R22.5 Trailer Tire",
+            "price": "£305.00",
+            "offerPrice": "$202.00",
+            "brand": "Goodyear",
+            "size": "11R22.5",
+            "pattern": "Trailer",
+            "loadRange": "G",
+            "description": "Durable trailer tire for various applications.",
+            "image": "/assets/truck/Goodyear/Trailer_Tire/11R22.5.png"
+          },
+          {
+            "id": 1126,
+            "name": "Goodyear G318 LHT 315/80R22.5 Trailer Tire",
+            "price": "£330.00",
+            "offerPrice": "$207.00",
+            "brand": "Goodyear",
+            "size": "315/80R22.5",
+            "pattern": "Trailer",
+            "loadRange": "H",
+            "description": "High-capacity trailer tire with reinforced construction.",
+            "image": "/assets/truck/Goodyear/Trailer_Tire/31580R22.5.png"
+          },
+          {
+            "id": 1127,
+            "name": "Goodyear G317 LHT 295/75R22.5 Trailer Tire",
+            "price": "£320.00",
+            "offerPrice": "$207.00",
+            "brand": "Goodyear",
+            "size": "295/75R22.5",
+            "pattern": "Trailer",
+            "loadRange": "H",
+            "description": "Regional trailer tire with optimized tread design.",
+            "image": "/assets/truck/Goodyear/Trailer_Tire/29575R22.5.png"
+          },
+          {
+            "id": 1128,
+            "name": "Goodyear G317 LHT 295/80R22.5 Trailer Tire",
+            "price": "£325.00",
+            "offerPrice": "$207.00",
+            "brand": "Goodyear",
+            "size": "295/80R22.5",
+            "pattern": "Trailer",
+            "loadRange": "H",
+            "description": "Long-haul trailer tire with durable casing.",
+            "image": "/assets/truck/Goodyear/Trailer_Tire/29580R22.5.png"
+          },
+          {
+            "id": 1129,
+            "name": "Goodyear WideBase LHT 385/65R22.5 Trailer Tire",
+            "price": "£400.00",
+            "offerPrice": "$238.00",
+            "brand": "Goodyear",
+            "size": "385/65R22.5",
+            "pattern": "Trailer",
+            "loadRange": "J",
+            "description": "High-stability wide base trailer tire for heavy loads.",
+            "image": "/assets/truck/Goodyear/Trailer_Tire/38565R22.5.png"
+          },
+          {
+            "id": 1130,
+            "name": "Goodyear G315 LHT 255/70R22.5 Trailer Tire",
+            "price": "£290.00",
+            "offerPrice": "$222.00",
+            "brand": "Goodyear",
+            "size": "255/70R22.5",
+            "pattern": "Trailer",
+            "loadRange": "G",
+            "description": "Regional trailer tire with reinforced construction.",
+            "image": "/assets/truck/Goodyear/Trailer_Tire/25570R22.5.png"
+          },
+          {
+            "id": 1131,
+            "name": "Goodyear G316 LHT 10R22.5 Trailer Tire",
+            "price": "£300.00",
+            "offerPrice": "$202.00",
+            "brand": "Goodyear",
+            "size": "10R22.5",
+            "pattern": "Trailer",
+            "loadRange": "G",
+            "description": "Versatile trailer tire for urban and regional applications.",
+            "image": "/assets/truck/Goodyear/Trailer_Tire/10 R22.5.png"
+          }
+        ]
+      },
+      {
+        "id": 102,
+        "name": "Golf Cart",
+        "products": [
+          { "id": 1003, "name": "Electric Golf Cart", "price": "$5,200" },
+          { "id": 1004, "name": "Gas Golf Cart", "price": "$4,800" }
+        ]
+      },
+      {
+        "id": 103,
+        "name": "Rim",
+        "products": [
+          { "id": 1005, "name": "Alloy Rims", "price": "$120" },
+          { "id": 1006, "name": "Steel Rims", "price": "$85" }
+        ]
+      },
+      {
+        "id": 104,
+        "name": "Electric Bike",
+        "products": [
+          { "id": 1007, "name": "Mountain E-Bike", "price": "$1,200" },
+          { "id": 1008, "name": "City E-Bike", "price": "$950" }
+        ]
+      },
+      {
+        "id": 105,
+        "name": "Other parts",
+        "products": [
+          { "id": 1009, "name": "Brake Pads", "price": "$45" },
+          { "id": 1010, "name": "Headlights", "price": "$75" }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Metals & Metal Products",
+    "icon": "🔩",
+    "subcategories": [
+      {
+        "id": 201,
+        "name": "Copper Scrap",
+        "products": [
+          { "id": 2001, "name": "Clean Copper Scrap", "price": "$6.50/kg" },
+          { "id": 2002, "name": "Copper Wire Scrap", "price": "$5.80/kg" }
+        ]
+      },
+      {
+        "id": 202,
+        "name": "Cathode Copper",
+        "products": [
+          { "id": 2003, "name": "Grade A Cathode Copper", "price": "$8,200/ton" }
+        ]
+      },
+      {
+        "id": 203,
+        "name": "Aluminum Metal",
+        "products": [
+          { "id": 2004, "name": "Aluminum Ingots", "price": "$2,200/ton" },
+          { "id": 2005, "name": "Aluminum Sheets", "price": "$3.50/kg" }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "name": "Dry Food",
+    "icon": "🍚",
+    "subcategories": [
+      {
+        "id": 301,
+        "name": "Rice",
+        "products": [
+          { "id": 3001, "name": "Basmati Rice", "price": "$45/25kg" },
+          { "id": 3002, "name": "Jasmine Rice", "price": "$38/25kg" }
+        ]
+      },
+      {
+        "id": 302,
+        "name": "Sugar",
+        "products": [
+          { "id": 3003, "name": "White Refined Sugar", "price": "$32/25kg" },
+          { "id": 3004, "name": "Brown Sugar", "price": "$36/25kg" }
+        ]
+      },
+      {
+        "id": 303,
+        "name": "Nuts",
+        "subcategories": [
+          {
+            "id": 3031,
+            "name": "Cashew Nuts",
+            "products": [
+              { "id": 3005, "name": "Whole Cashews", "price": "$12/kg" },
+              { "id": 3006, "name": "Cashew Pieces", "price": "$10/kg" }
+            ]
+          },
+          {
+            "id": 3032,
+            "name": "Almond Nuts",
+            "products": [
+              { "id": 3007, "name": "California Almonds", "price": "$14/kg" },
+              { "id": 3008, "name": "Organic Almonds", "price": "$16/kg" }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "name": "Agriculture",
+    "icon": "🌱",
+    "subcategories": [
+      {
+        "id": 401,
+        "name": "Fresh Potatoes",
+        "products": [
+          { "id": 4001, "name": "Red Potatoes", "price": "$15/20kg" },
+          { "id": 4002, "name": "Russet Potatoes", "price": "$12/20kg" }
+        ]
+      },
+      {
+        "id": 402,
+        "name": "Fresh Onion",
+        "products": [
+          { "id": 4003, "name": "Yellow Onions", "price": "$18/20kg" },
+          { "id": 4004, "name": "Red Onions", "price": "$20/20kg" }
+        ]
+      },
+      {
+        "id": 403,
+        "name": "Organic Tea",
+        "products": [
+          { "id": 4005, "name": "Green Tea", "price": "$25/kg" },
+          { "id": 4006, "name": "Black Tea", "price": "$22/kg" }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "name": "Frozen Fish",
+    "icon": "🐟",
+    "subcategories": [
+      {
+        "id": 501,
+        "name": "Eel",
+        "products": [
+          { "id": 5001, "name": "Freshwater Eel", "price": "$18/kg" }
+        ]
+      },
+      {
+        "id": 502,
+        "name": "Crab",
+        "products": [
+          { "id": 5002, "name": "Snow Crab", "price": "$28/kg" },
+          { "id": 5003, "name": "King Crab", "price": "$45/kg" }
+        ]
+      },
+      {
+        "id": 503,
+        "name": "Shrimps",
+        "products": [
+          { "id": 5004, "name": "White Shrimp", "price": "$16/kg" },
+          { "id": 5005, "name": "Tiger Shrimp", "price": "$22/kg" }
+        ]
+      },
+      {
+        "id": 504,
+        "name": "Frozen Tilapia",
+        "products": [
+          { "id": 5006, "name": "Whole Tilapia", "price": "$8/kg" },
+          { "id": 5007, "name": "Tilapia Fillets", "price": "$12/kg" }
+        ]
+      },
+      {
+        "id": 505,
+        "name": "Pacific Mackerel Fish",
+        "products": [
+          { "id": 5008, "name": "Whole Mackerel", "price": "$10/kg" }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "name": "Wood",
+    "icon": "🪵",
+    "subcategories": [
+      {
+        "id": 601,
+        "name": "Wood Pellets",
+        "products": [
+          { "id": 6001, "name": "Premium Wood Pellets", "price": "$280/ton" },
+          { "id": 6002, "name": "Standard Wood Pellets", "price": "$240/ton" }
+        ]
+      }
+    ]
+  }
+]
