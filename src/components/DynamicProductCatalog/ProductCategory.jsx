@@ -1,4 +1,3 @@
-// ProductCategory.jsx
 import React from "react";
 
 const ProductCategory = ({ category, isSelected, onSelect }) => {

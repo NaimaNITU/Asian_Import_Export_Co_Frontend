@@ -1,6 +1,7 @@
 import React, { useState } from "react";
 import { FaBars, FaTimes, FaChevronDown } from "react-icons/fa";
 import logo2 from "/assets/website_big_logo.png";
+import { Link } from "react-router";
 
 const Navbar = () => {
   const [isMenuOpen, setIsMenuOpen] = useState(false);
@@ -60,21 +61,23 @@ const Navbar = () => {
       <div className="flex items-center justify-between">
         {/* Logo and Company Name */}
         <div className="flex items-center">
-          <img
-            src={logo2}
-            alt="Asian Import and Export"
-            className="h-16 w-auto"
-          />
+          <Link to="/">
+            <img
+              src={logo2}
+              alt="Asian Import and Export"
+              className="h-16 w-auto"
+            />
+          </Link>
         </div>
 
         {/* Desktop Navigation */}
         <div className="hidden lg:flex items-center space-x-7">
-          <a
-            href="#"
+          <Link
+            to="/"
             className="text-white font-medium hover:text-amber-200 transition-colors py-2 border-b-2 border-transparent hover:border-amber-200"
           >
             Home
-          </a>
+          </Link>
 
           <div className="relative">
             <button
@@ -224,30 +227,30 @@ const Navbar = () => {
             )}
           </div>
 
-          <a
-            href="#"
+          <Link
+            to="/aboutUs"
             className="text-white font-medium hover:text-amber-200 transition-colors py-2 border-b-2 border-transparent hover:border-amber-200"
           >
             About Us
-          </a>
-          <a
-            href="#"
+          </Link>
+          <Link
+            to="/shipping"
             className="text-white font-medium hover:text-amber-200 transition-colors py-2 border-b-2 border-transparent hover:border-amber-200"
           >
             Shipping & Delivery
-          </a>
-          <a
-            href="#"
+          </Link>
+          <Link
+            to="/privacy"
             className="text-white font-medium hover:text-amber-200 transition-colors py-2 border-b-2 border-transparent hover:border-amber-200"
           >
             Privacy Policy
-          </a>
-          <a
-            href="#"
+          </Link>
+          <Link
+            to="/contact"
             className="text-white font-medium hover:text-amber-200 transition-colors py-2 border-b-2 border-transparent hover:border-amber-200"
           >
             Contact
-          </a>
+          </Link>
         </div>
 
         {/* Contact Info to fill the empty space */}
@@ -330,30 +333,30 @@ const Navbar = () => {
               )}
             </div>
 
-            <a
-              href="#"
+            <Link
+              to="/aboutUs"
               className="text-white font-medium py-3 px-4 hover:bg-teal-700 rounded-md transition-colors"
             >
               About Us
-            </a>
-            <a
-              href="#"
+            </Link>
+            <Link
+              to="/shipping"
               className="text-white font-medium py-3 px-4 hover:bg-teal-700 rounded-md transition-colors"
             >
               Shipping & Delivery
-            </a>
-            <a
-              href="#"
+            </Link>
+            <Link
+              to="/privacy"
               className="text-white font-medium py-3 px-4 hover:bg-teal-700 rounded-md transition-colors"
             >
               Privacy Policy
-            </a>
-            <a
-              href="#"
+            </Link>
+            <Link
+              to="/contact"
               className="text-white font-medium py-3 px-4 hover:bg-teal-700 rounded-md transition-colors"
             >
               Contact
-            </a>
+            </Link>
           </div>
         </div>
       )}
